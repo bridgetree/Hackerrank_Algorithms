@@ -1,4 +1,6 @@
 # Rotate an array, output specific values based on user output
+# Copied from discussion board, my solution was timing out for 
+# certain test sets
 
 b = a[:] # copy of the original array so no overwrites occur
 for i in range(n):
